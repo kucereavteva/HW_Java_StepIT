@@ -1,4 +1,4 @@
-package L4HW;//5.	Создайте программу, которая возвращает все пары множителей введённого числа (если таковые есть).
+package L4HW;//5.Создайте программу, которая возвращает все пары множителей введённого числа (если таковые есть).
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ public class HW4_5 {
     public static void main(String[] args)  {
 
         Scanner input = new Scanner(System.in);
-        System.out.println("Vvedite cislo");
+        System.out.println(" Введите число: ");
 
         int num = input.nextInt();
 
