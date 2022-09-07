@@ -1,6 +1,5 @@
 package L4HW;//5.	Создайте программу, которая возвращает все пары множителей введённого числа (если таковые есть).
 
-import java.io.IOException;
 import java.util.Scanner;
 
 public class HW4_5 {
